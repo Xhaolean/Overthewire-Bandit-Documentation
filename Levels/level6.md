@@ -69,6 +69,7 @@ The `c` means bytes.
 ```
 
 Hide permission-denied error messages.
+you can more about it [here](https://github.com/Xhaolean/Overthewire-Bandit-Documentation/blob/main/dev_null.md)
 
 The search should return the path of the required file.
 
@@ -196,6 +197,7 @@ find / ... 2>/dev/null
 ```
 
 keeps the useful results while hiding permission-denied messages.
+More Detailed information [here](https://github.com/Xhaolean/Overthewire-Bandit-Documentation/blob/main/dev_null.md) 
 
 ## Mistake & Lesson
 
