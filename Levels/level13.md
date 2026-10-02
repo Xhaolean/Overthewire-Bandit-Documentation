@@ -49,6 +49,7 @@ Set the permissions so that only the owner can read the file:
 ```bash
 chmod 600 sshkey.private
 ```
+To Know how chmod Works visit [here](https://github.com/Xhaolean/Overthewire-Bandit-Documentation/blob/main/chmod.md)
 
 Now use the private key to connect to `bandit14`:
 
